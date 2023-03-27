@@ -1,0 +1,23 @@
+firstName: Chandler
+secondName: Bing
+dateBirth: 04-08-1968
+age: 55
+married: false
+studentId: 54233434
+livesAtCampus: true
+roomMate:
+  - name:
+      first: Joey
+      last: Trribiani
+      high: 178
+    dateBirth: 01-09-1968
+    age: 55
+    married: false
+    studentId: 23212332
+    livesAtCampus: true
+address:
+  country: US
+  city: New York
+  ZIP: 11368
+  postal: true
+phoneNumber: null

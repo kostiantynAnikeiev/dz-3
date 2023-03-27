@@ -1,0 +1,25 @@
+<student>
+  <firstName>Chandler</firstName>
+  <secondName>Bing</secondName>
+  <dateBirth>04-08-1968</dateBirth>
+  <age>55</age>
+  <married>false</married>
+  <studentId>54233434</studentId>
+  <livesAtCampus>true</livesAtCampus>
+  <roomMate>
+    <name>Joey</name>
+    <surname>Trribiani</surname>
+    <dateBirth>01-09-1968</dateBirth>
+    <age>55</age>
+    <married>false</married>
+    <studentId>23212332</studentId>
+    <livesAtCampus>true</livesAtCampus>
+  </roomMate>
+  <address>
+    <country>US</country>
+    <city>New York</city>
+    <ZIP>11368</ZIP>
+    <postal>true</postal>
+  </address>
+  <phoneNumber/>
+</student>

@@ -1,0 +1,18 @@
+{
+"firstName": "Chandler",
+"secondName": "Bing",
+"dateBirth": "04-08-1968",
+"age": 55,
+"married": false,
+"studentId": 54233434,
+"livesAtCampus": true,
+"roomMate": ["Joey", "Trribiani", "01-09-1968", 55, false, 23212332, true],
+"address": {
+        "country": "US",
+        "city": "New York",
+        "ZIP": 	11368,
+        "postal": true
+    },
+"phoneNumber": null
+
+}
